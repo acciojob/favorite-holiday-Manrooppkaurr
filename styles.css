@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+section{
+	display:flex;
+	justify-content:space-evenly;
+}
+p{
+	text-align:justify;
+}
+main{
+	background-image:url("https://campgangavatika.com/imgart/reverse-bungee-rishikesh.jpeg");
+	backface-repeat: no repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	background-blend-mode:overlay;
+    
+}
